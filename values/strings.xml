@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">booboocabas-passenger</string>
+    <string name="title_activity_main">booboocabas-passenger</string>
+    <string name="package_name">com.booboocabs.com</string>
+    <string name="custom_url_scheme">com.booboocabs.com</string>
+</resources>
